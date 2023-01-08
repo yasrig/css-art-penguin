@@ -2,7 +2,7 @@
 
 This is my first CSS art piece. It is a penguin! 🐧
 
-I used a blog post and prior knowledge from a university html/css module, along with other online resources to create this basic css
+I used a blog post and existing knowledge from a university html/css module, along with other online resources to create this basic css
 art piece.
 
 Here is the blog post: https://www.creativebloq.com/features/get-started-with-css-art
